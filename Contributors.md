@@ -62,7 +62,7 @@
 - [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
 - Chiara Curgu
-- EKOV
+- E-KOV
 - [MariaCassandra]
 - [Santiago Enciso] (https://github.com/Dogeon0)
 - [Leeuwin Ririnui](https://github.com/loubxby)
